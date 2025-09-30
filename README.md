@@ -33,7 +33,7 @@ Deque	Efficient storage of drawing points
 ## ⚙️ Installation
 
 1. Clone Repository
-git clone https://github.com/your-username/virtual-paint-hand-tracking.git
+git clone [https://github.com/your-username/virtual-paint-hand-tracking.git](https://github.com/Laksh711-tech/air--canvas.git)
 cd virtual-paint-hand-tracking
 
 ## 2. Install Dependencies
